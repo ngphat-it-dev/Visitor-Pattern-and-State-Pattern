@@ -6,4 +6,4 @@ My team did research and wrote a report on 2 design patterns including: Visitor 
 
 - Ngo Gia Phat
 - Le Dac Chinh
-- Bao Hoang Quy
+- Bao Hoang Qui
